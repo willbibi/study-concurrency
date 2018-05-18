@@ -1,2 +1,2 @@
 # study-concurrency
-学习并发编程
+study-concurrency
